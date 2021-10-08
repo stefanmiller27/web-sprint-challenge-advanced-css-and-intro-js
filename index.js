@@ -211,7 +211,7 @@ Practice accessing data above by console.log-ing following items:
 
 console.log('the artist at index 0 is ' + `${artists[0].name}`)
 
-// I dont understand I console logged the following options like you specified without a function and both my logs came back working with the intended result //
+
 
 //(2) Bio of the third artist (2nd index) in the array 
 
@@ -258,10 +258,10 @@ function get20s(artists) {
 
   for (let i = 0; i < artists.length; i++) {
     const artist = artists[i]
-    // ["1541", "1614"]
+    
     const dates = artist.years.split(" - ")
 
-    // "1541" > 1541
+    
     const birthYear = Number(dates[0])
     const deathYear = parseInt(dates[1])
 
