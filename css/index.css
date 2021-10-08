@@ -171,6 +171,8 @@ vertical-align: baseline;
 
     .title-container{
         max-width: 100% auto;
+        background-size: cover;
+        background-size: contain;
     }
 
    
@@ -182,6 +184,8 @@ vertical-align: baseline;
         font-size: 35%;
         font-stretch: ultra-condensed;
         margin-bottom: 60%;
+        width: 100%;
+        padding:3%
     }
 
 
@@ -194,10 +198,12 @@ vertical-align: baseline;
 
     h1{
         font-size: 3rem;
+        letter-spacing: 0.05em;
     }
 
     a{
         font-size: 1rem;
+        margin-top: 4%;
     
     }
 
@@ -209,11 +215,18 @@ vertical-align: baseline;
     .artist img{
         max-width: 200%;
         height: auto;
+        margin-top: 10%;
+        margin-bottom: 7%;
         
     }
 
     .header nav{
         font-size: 50%;
+    }
+
+    .bio{
+        padding-top: 5%;
+        margin-top: 5%;
     }
 
 }
