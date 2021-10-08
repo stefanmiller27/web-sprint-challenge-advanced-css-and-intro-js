@@ -23,10 +23,27 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+    web accessibilty is where websites are designed so that all people can use them easily and equally. Especially those with disabilities.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    1.use headings in the right format so that the structure of the content is more organized.
+    2.using alt text properly for describing images.
+    3.on my last note maybe giving my links descriptive names.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+    easily said a variable is a container for a set of data(type of data:string number boolean etc.)
+
 4. What is the purpose of using functions in code?
+
+    I'd say a function is a chunk of code that can be used over and over again i.e multiple times,
+
 5. How do you access a key inside of an object inside of an array?
+
+    array[index].kay/value
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
